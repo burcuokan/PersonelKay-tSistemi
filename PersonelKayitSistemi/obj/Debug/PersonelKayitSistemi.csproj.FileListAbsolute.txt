@@ -1,0 +1,13 @@
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.exe.config
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.exe
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\bin\Debug\PersonelKayitSistemi.pdb
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csprojAssemblyReference.cache
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.FrmPersonelKayıt.resources
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.Properties.Resources.resources
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.GenerateResource.cache
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.exe
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.pdb
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.FrmGrafik.resources
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.Frmİstatistik.resources
+C:\Users\okan113\source\repos\PersonelKayitSistemi\PersonelKayitSistemi\obj\Debug\PersonelKayitSistemi.FrmGiris.resources
